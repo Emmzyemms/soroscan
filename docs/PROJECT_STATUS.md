@@ -266,8 +266,8 @@ Feature priorities and issue status change over time; see the [project roadmap](
 3. `migration-check.yml` — Validates migration integrity
 ### Coverage and CI
 
-- Backend CI runs pytest with coverage and enforces an 80% minimum; see [Django Tests](../.github/workflows/django-tests.yml).
-- Frontend CI runs Jest with coverage; see [Frontend CI](../.github/workflows/frontend-ci.yml).
+- Backend CI runs pytest with coverage and enforces an 80% minimum; see [Django Tests](https://github.com/Emmzyemms/soroscan/blob/main/.github/workflows/django.yml).
+- Frontend CI runs Jest with coverage; see [Frontend CI](https://github.com/Emmzyemms/soroscan/blob/main/.github/workflows/frontend-ci.yml).
 - Current pass counts and coverage percentages are produced by CI runs and are not asserted in this report.
 - The Django workflow also checks for missing migrations with `makemigrations --check --dry-run`; there is no separate `migration-check.yml` workflow.
 
@@ -495,10 +495,10 @@ See the [project roadmap](ROADMAP.md) for current priorities.
 ## Resources
 
 ### Documentation
-- 📖 [README.md](../README.md) — Project overview
+- 📖 [README.md](https://github.com/Emmzyemms/soroscan/blob/main/README.md) — Project overview
 - 🔧 [Getting Started](getting-started.md)
 - 📋 [Project Roadmap](ROADMAP.md)
-- 🎯 [Contributing](../CONTRIBUTING.md)
+- 🎯 [Contributing](https://github.com/Emmzyemms/soroscan/blob/main/CONTRIBUTING.md)
 - 🧭 [Contributor Style Guide](contributing/style-guide.md)
 
 ### APIs
