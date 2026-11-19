@@ -15,7 +15,7 @@
 
 ## 🧩 Figma Source
 
-Figma file: <https://www.figma.com/file/qkTJWD2iKj4W2BVztdCrHt/SoroScan-UI-Design?node-id=0-1>
+Figma file: [SoroScan UI Design](https://www.figma.com/file/qkTJWD2iKj4W2BVztdCrHt/SoroScan-UI-Design?node-id=0-1)
 
 This repository follows the Figma master file as the single source of truth for colors, typography, spacing, and
 component behavior.

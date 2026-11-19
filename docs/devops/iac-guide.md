@@ -430,6 +430,6 @@ terraform state list
 
 ## References
 
-- Terraform: <https://www.terraform.io/docs>
-- Helm: <https://helm.sh/docs/>
-- GitHub Actions: <https://docs.github.com/actions>
+- Terraform: [Terraform documentation](https://www.terraform.io/docs)
+- Helm: [Helm documentation](https://helm.sh/docs/)
+- GitHub Actions: [documentation](https://docs.github.com/actions)

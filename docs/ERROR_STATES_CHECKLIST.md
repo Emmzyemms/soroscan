@@ -347,7 +347,7 @@ soroscan-frontend/context/
 
 ## References
 
-- Tailwind colors: <https://tailwindcss.com/docs/customizing-colors>
-- ARIA accessibility: <https://www.w3.org/WAI/tutorials/>
-- React error boundaries: <https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary>
-- Network API: <https://developer.mozilla.org/en-US/docs/Web/API/Navigator/onLine>
+- Tailwind colors: [tailwindcss.com](https://tailwindcss.com/docs/customizing-colors)
+- ARIA accessibility: [WAI tutorials](https://www.w3.org/WAI/tutorials/)
+- React error boundaries: [React documentation](https://react.dev/reference/react/Component#catching-rendering-errors-with-an-error-boundary)
+- Network API: [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/onLine)

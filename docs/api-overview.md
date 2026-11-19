@@ -105,4 +105,4 @@ RateLimit-Reset: 1714508459
 - `RateLimit-Remaining`: Requests left in the active window.
 - `RateLimit-Reset`: Unix timestamp when the current window resets.
 
-If you need higher limits, please contact us at <support@soroscan.io>.
+If you need higher limits, please contact us at [support@soroscan.io](mailto:support@soroscan.io).

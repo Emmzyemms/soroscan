@@ -536,9 +536,9 @@ See the [project roadmap](ROADMAP.md) for current priorities.
 
 ### APIs
 
-- GraphQL: <http://localhost:8000/graphql>
-- REST: <http://localhost:8000/api/>
-- Health: <http://localhost:8000/health>
+- GraphQL: [http://localhost:8000/graphql](http://localhost:8000/graphql)
+- REST: [http://localhost:8000/api/](http://localhost:8000/api/)
+- Health: [http://localhost:8000/health](http://localhost:8000/health)
 
 ### Team
 
